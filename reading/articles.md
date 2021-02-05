@@ -1,0 +1,17 @@
+# Articles List
+
+## Data Science
+
+- [8 Skills Required To Become A Data Scientist](https://hackernoon.com/8-skills-required-to-become-a-data-scientist-qt24331s)
+- [AI = “Automated Inspiration”](https://towardsdatascience.com/ai-automated-inspiration-75bff7b9481b)
+- [Best Data Science Overviews](https://medium.com/hackernoon/best-of-data-science-overviews-1e73b9c7682)
+- [Data Science’s Most Misunderstood Hero](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
+- [Explainable AI won’t deliver. Here’s why](https://hackernoon.com/explainable-ai-wont-deliver-here-s-why-6738f54216be)
+- [Getting started with AI? Start here!](https://hackernoon.com/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
+- [Machine learning — Is the emperor wearing clothes?](https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc)
+- [Pay attention to that man behind the curtain](https://hackernoon.com/ai-bias-and-what-you-can-do-about-it-4a6ae48b338e)
+- [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+- [Understanding Data](https://towardsdatascience.com/what-is-data-8f94ae3a56b4)
+- [Using AI as a perception-altering drug](https://hackernoon.com/using-ai-as-a-perception-altering-drug-dd648bbf6e4a)
+- [What on Earth is Data Science?](https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37)
+
