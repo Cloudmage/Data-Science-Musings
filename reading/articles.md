@@ -17,3 +17,14 @@ Useful articles that I have been reading
 - [Using AI as a perception-altering drug](https://hackernoon.com/using-ai-as-a-perception-altering-drug-dd648bbf6e4a)
 - [What on Earth is Data Science?](https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37)
 
+## From My Blog
+
+- [Learning Data Science](https://maxhemingway.com/2014/12/12/learning-data-science/)
+- [Data Science in the Cloud ebook](https://maxhemingway.com/2015/03/09/data-science-in-the-cloud-ebook/)
+- [Data Science and Information Theory](https://maxhemingway.com/2014/12/14/data-science-and-information-theory/)
+- [Data Mining Courses](https://maxhemingway.com/2015/04/28/data-mining-courses/)
+- [Open Source, Open Human, Open Data, Open Sesame!](https://maxhemingway.com/2015/03/30/open-source-open-human-open-data-open-sesame/)
+- [Data Scientist Skill Set](https://maxhemingway.com/2015/01/05/data-scientist-skill-set/)
+- [R {swirls} – Learning R by doing](https://maxhemingway.com/2015/04/16/r-swirls-learning-r-by-doing/)
+- [Correlation does not imply causation](https://maxhemingway.com/2015/03/10/correlation-does-not-imply-causation/)
+- [Statistical Inference Resources](https://maxhemingway.com/2015/02/03/statistical-inference-resources/)
