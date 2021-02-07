@@ -12,7 +12,7 @@ My assignments for the Data Fellowship Appreniticeship.
 
 ## Data
 
-Useful data sets and tools.
+Useful datasets and tools.
 
 - [Data/Tools](data/README.md)
 

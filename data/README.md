@@ -1,4 +1,4 @@
 # Data
 
-- [Data Sets](datasets.md)
+- [Datasets](datasets.md)
 - [Useful Data Tools](tools.md)

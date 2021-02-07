@@ -1,8 +1,8 @@
-# Data Sets
+# Datasets
 
-## Open Data Sets
+## Open Datasets
 
-List of useful data sets to use in experiments
+List of useful datasets to use in experiments
 
 - [CAIDA Data - Overview of Datasets, Monitors, and Reports](http://www.caida.org/data/overview/)
 - [Enron Email Dataset](http://www.cs.cmu.edu/~./enron/)
