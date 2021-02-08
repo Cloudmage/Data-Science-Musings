@@ -10,4 +10,3 @@
 - [R Functions for Time Series Analysis](https://cran.r-project.org/doc/contrib/Ricci-refcard-ts.pdf)
 - [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)
-
