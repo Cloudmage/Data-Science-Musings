@@ -1,4 +1,4 @@
-# Data-Science-Musings
+# Data Science Musings
 
 ![Main Logo](logo.jpg)
 
