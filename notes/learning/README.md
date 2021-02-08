@@ -1,3 +1,3 @@
 # Notes from learning sessions
 
--[Storytelling](storytelling.md)
+- [Storytelling](storytelling.md)

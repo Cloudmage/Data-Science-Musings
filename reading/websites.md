@@ -5,3 +5,4 @@
 - [Little Miss Data](https://www.littlemissdata.com/)
 - [R Bloggers](https://www.r-bloggers.com/)
 - [Storytelling with Data](http://www.storytellingwithdata.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
