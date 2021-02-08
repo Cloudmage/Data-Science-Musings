@@ -30,8 +30,8 @@ Math - need I say more!
 
 - [Math](math/README.md)
 
-## Reading Lists
+## Reading/Learning Lists
 
-Articles reviewed/read as part of Data Fellowship Apprenticeship.
+Articles reviewed/read as part of Data Fellowship Apprenticeship. This area contains articles, books, cheatsheets, podcasts, tutorials, videos and website links.
 
-- [Reading Lists](reading/README.md)
+- [Reading/Learning Lists](reading/README.md)
