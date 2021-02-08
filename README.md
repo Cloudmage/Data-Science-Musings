@@ -35,3 +35,9 @@ Math - need I say more!
 Articles reviewed/read as part of Data Fellowship Apprenticeship. This area contains articles, books, cheatsheets, podcasts, tutorials, videos and website links.
 
 - [Reading/Learning Lists](reading/README.md)
+
+## Glossary
+
+Glossary of terms
+
+- [Glossary](notes/glossary.md)

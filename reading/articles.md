@@ -8,6 +8,7 @@ Useful articles that I have been reading
 - [AI = “Automated Inspiration”](https://towardsdatascience.com/ai-automated-inspiration-75bff7b9481b)
 - [Best Data Science Overviews](https://medium.com/hackernoon/best-of-data-science-overviews-1e73b9c7682)
 - [Data Science’s Most Misunderstood Hero](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
+- [Deep Learning Paper Notes](https://github.com/dennybritz/deeplearning-papernotes)
 - [Explainable AI won’t deliver. Here’s why](https://hackernoon.com/explainable-ai-wont-deliver-here-s-why-6738f54216be)
 - [Getting started with AI? Start here!](https://hackernoon.com/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
 - [Machine learning — Is the emperor wearing clothes?](https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc)

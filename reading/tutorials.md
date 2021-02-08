@@ -1,5 +1,18 @@
-# Tutorials
+# Tutorials and lists
 
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Awesome list of programming and other things](https://github.com/sindresorhus/awesome)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome R](https://github.com/qinwf/awesome-R)
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Data Science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Datacamp Open Courses](https://www.datacamp.com/community/open-courses)
+- [Introduction into Deep Learning](https://github.com/rouseguy/intro2deeplearning)
+- [Introduction into stats](https://github.com/rouseguy/intro2stats)
 - [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+- [Neural Network Papers](https://github.com/robertsdionne/neural-network-papers)
 - [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 - [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)
+- [Scikit Learn](https://github.com/scikit-learn/scikit-learn)
+- [Speech Language Processing](https://github.com/edobashira/speech-language-processing)
