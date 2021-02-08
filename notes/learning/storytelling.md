@@ -11,7 +11,7 @@ Aristotle's Power of Persuasion
 - Ethos - Author/Speaker (Character, Credibility, Authority, Truthfulness)
 - Pathos - This topic effects you - connect and bridge the gap (Current emotional state, Target emotional estate)
 - Logos - This is why it effects you - story/proposal (Reasonablenss, Consistancy, Clarity)
-- Karios - This is the time
+- Karios - Timing
 
 ### Ethos
 
@@ -33,11 +33,11 @@ is an Ancient Greek word meaning the right, critical, or opportune moment
 
 Articles and some sources for notes
 
-[Aristotle and the Art of Persuasion](https://medium.com/history-of-yesterday/aristotle-and-the-art-of-persuasion-4250ebf69dc7)
-[Here’s how Aristotle can help you master the power of persuasion](https://bigthink.com/personal-growth/aristotle-persuasion)
-[The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years)
-[The Power of Aristotle's Persuasion Triangle](https://strategyandstorytelling.com/blog/2017/12/27/artistotle-persuasion-triangle)
-[Kairos](https://en.wikipedia.org/wiki/Kairos)
+- [Aristotle and the Art of Persuasion](https://medium.com/history-of-yesterday/aristotle-and-the-art-of-persuasion-4250ebf69dc7)
+- [Here’s how Aristotle can help you master the power of persuasion](https://bigthink.com/personal-growth/aristotle-persuasion)
+- [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years)
+- [The Power of Aristotle's Persuasion Triangle](https://strategyandstorytelling.com/blog/2017/12/27/artistotle-persuasion-triangle)
+- [Kairos](https://en.wikipedia.org/wiki/Kairos)
 
 ## Monroe's Motivated Sequence
 
@@ -117,3 +117,7 @@ Timing is everything
 - Impactful
 - Interesting
 - Memorable
+
+### Other References
+
+- [How to Tell Stories with Sentiment Analysis](https://towardsdatascience.com/how-to-tell-stories-with-sentiment-analysis-f94cf9f8ca71)
