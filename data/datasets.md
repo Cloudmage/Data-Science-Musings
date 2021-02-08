@@ -1,5 +1,11 @@
 # Datasets
 
+## Lists of Open Datasets
+
+Existing lists of open datasets
+
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 ## Open Datasets
 
 List of useful datasets to use in experiments
