@@ -24,3 +24,15 @@
 - [Exploratory Data Analysis with R](https://leanpub.com/exdata)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
+
+## Physical Books
+
+Links in this section go to Amazon.co.uk. For note: I do not have any affilation with the products listed.
+
+### Machine Learning
+
+- [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?)
+
+### Statistics
+
+- [The Art of Statistics: Learning from Data](https://www.amazon.co.uk/Learning-Data-Statistics-Pelican-Books/dp/0241258766/ref=sr_1_1?)

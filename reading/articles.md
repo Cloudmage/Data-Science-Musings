@@ -20,15 +20,17 @@ Useful articles that I have been reading
 
 ## From My Blog
 
-- [Learning Data Science](https://maxhemingway.com/2014/12/12/learning-data-science/)
-- [Data Science in the Cloud ebook](https://maxhemingway.com/2015/03/09/data-science-in-the-cloud-ebook/)
-- [Data Science and Information Theory](https://maxhemingway.com/2014/12/14/data-science-and-information-theory/)
-- [Data Mining Courses](https://maxhemingway.com/2015/04/28/data-mining-courses/)
-- [Data Storytelling](https://maxhemingway.com/2021/02/08/data-storytelling/)
-- [Open Source, Open Human, Open Data, Open Sesame!](https://maxhemingway.com/2015/03/30/open-source-open-human-open-data-open-sesame/)
-- [Data Scientist Skill Set](https://maxhemingway.com/2015/01/05/data-scientist-skill-set/)
-- [R {swirls} – Learning R by doing](https://maxhemingway.com/2015/04/16/r-swirls-learning-r-by-doing/)
 - [Correlation does not imply causation](https://maxhemingway.com/2015/03/10/correlation-does-not-imply-causation/)
+- [Data Mining Courses](https://maxhemingway.com/2015/04/28/data-mining-courses/)
+- [Data Science and Information Theory](https://maxhemingway.com/2014/12/14/data-science-and-information-theory/)
+- [Data Science in the Cloud ebook](https://maxhemingway.com/2015/03/09/data-science-in-the-cloud-ebook/)
+- [Data Scientist Skill Set](https://maxhemingway.com/2015/01/05/data-scientist-skill-set/)
+- [Data Storytelling](https://maxhemingway.com/2021/02/08/data-storytelling/)
+- [Echo Chamber Effect](https://maxhemingway.com/2015/01/13/the-echo-chamber-effect/)
+- [Learning Data Science](https://maxhemingway.com/2014/12/12/learning-data-science/)
+- [Open Source, Open Human, Open Data, Open Sesame!](https://maxhemingway.com/2015/03/30/open-source-open-human-open-data-open-sesame/)
+- [Proving it – “If it’s obvious prove it. If you can’t prove it, it’s not obvious.”](https://maxhemingway.com/2020/09/08/proving-it-if-its-obvious-prove-it-if-you-cant-prove-it-its-not-obvious/)
+- [R {swirls} – Learning R by doing](https://maxhemingway.com/2015/04/16/r-swirls-learning-r-by-doing/)
 - [Statistical Inference Resources](https://maxhemingway.com/2015/02/03/statistical-inference-resources/)
 
 ## Python
