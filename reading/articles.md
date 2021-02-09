@@ -24,6 +24,7 @@ Useful articles that I have been reading
 - [Data Science in the Cloud ebook](https://maxhemingway.com/2015/03/09/data-science-in-the-cloud-ebook/)
 - [Data Science and Information Theory](https://maxhemingway.com/2014/12/14/data-science-and-information-theory/)
 - [Data Mining Courses](https://maxhemingway.com/2015/04/28/data-mining-courses/)
+- [Data Storytelling](https://maxhemingway.com/2021/02/08/data-storytelling/)
 - [Open Source, Open Human, Open Data, Open Sesame!](https://maxhemingway.com/2015/03/30/open-source-open-human-open-data-open-sesame/)
 - [Data Scientist Skill Set](https://maxhemingway.com/2015/01/05/data-scientist-skill-set/)
 - [R {swirls} – Learning R by doing](https://maxhemingway.com/2015/04/16/r-swirls-learning-r-by-doing/)

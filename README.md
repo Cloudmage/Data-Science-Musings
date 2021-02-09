@@ -4,6 +4,8 @@
 
 Musings from my learnings and readings into the world of Data Science and Analytics on a Data Fellowship Apprenticeship.
 
+I also have a blog where I write about certain topics [www.maxhemingway.com](https://maxhemingway.com/)
+
 ## Assignments and Notes
 
 My assignments for the Data Fellowship Appreniticeship.
