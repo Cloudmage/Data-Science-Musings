@@ -8,6 +8,10 @@
 
 - [ExcelIsFun YouTube Channel](https://www.youtube.com/channel/UCkndrGoNpUDV-uia6a9jwVg)
 
+### Python
+
+- [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
+
 ### Statistics
 
 - [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw)

@@ -118,6 +118,10 @@ Timing is everything
 - Interesting
 - Memorable
 
+### My Blog
+
+Link to my blog post on [Data Storytelling](https://maxhemingway.com/2021/02/08/data-storytelling/)
+
 ### Other References
 
 - [How to Tell Stories with Sentiment Analysis](https://towardsdatascience.com/how-to-tell-stories-with-sentiment-analysis-f94cf9f8ca71)

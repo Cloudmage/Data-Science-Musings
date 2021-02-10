@@ -5,6 +5,7 @@
 ### Data Science
 
 - [An Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
+- [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 - [Mining of Massive Datasets](http://www.mmds.org/)
@@ -17,6 +18,7 @@
 - [Python 101](http://python101.pythonlibrary.org/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python for Everybody](https://www.py4e.com/)
+- [Quantitative Economics with Python](https://python.quantecon.org/)
 - [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
 ### R
@@ -36,3 +38,4 @@ Links in this section go to Amazon.co.uk. For note: I do not have any affilation
 ### Statistics
 
 - [The Art of Statistics: Learning from Data](https://www.amazon.co.uk/Learning-Data-Statistics-Pelican-Books/dp/0241258766/ref=sr_1_1?)
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
