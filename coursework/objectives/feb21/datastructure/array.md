@@ -36,3 +36,8 @@ array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16,
 A search engine may use an array to store data from a search to display a number of pages via a list of URLs.
 
 Output from a query may use an array to store the results and display them.
+
+### Reference Links
+
+- [Array](https://en.wikipedia.org/wiki/Array_data_structure)
+- [A Comprehensive Guide For Array Data Structure](https://medium.com/codeconvention/learn-array-data-structure-2fa01edd21c2)
