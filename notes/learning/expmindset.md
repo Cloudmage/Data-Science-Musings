@@ -37,6 +37,10 @@ Data --> Sample --> Study Population --> Target Population
 - Target Population
 - Privacy/Data Laws
 
+### My Blog
+
+Link to my blog post on [Experimental Mindset](https://maxhemingway.com/2021/02/10/experimental-mindset/)
+
 ### References
 
 - [5 Benefits of Adopting an Experimental Mindset](https://medium.com/publishous/5-benefits-of-adopting-an-experimental-mindset-614ecbcdb892)

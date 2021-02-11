@@ -27,15 +27,18 @@
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
 
+### Statistics
+
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+
 ## Physical Books
 
 Links in this section go to Amazon.co.uk. For note: I do not have any affilation with the products listed.
 
-### Machine Learning
+### Machine Learning Books
 
 - [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?)
 
-### Statistics
+### Statistics Books
 
 - [The Art of Statistics: Learning from Data](https://www.amazon.co.uk/Learning-Data-Statistics-Pelican-Books/dp/0241258766/ref=sr_1_1?)
-- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
