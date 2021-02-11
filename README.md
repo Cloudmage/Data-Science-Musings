@@ -10,7 +10,8 @@ I also have a blog where I write about certain topics [www.maxhemingway.com](htt
 
 My assignments for the Data Fellowship Appreniticeship.
 
-- [Assignments](assignments/README.md)
+- [Assignments](coursework/README.md)
+- [Objectives](coursework/README.md)
 - [Notes](notes/README.md)
 
 ## Data
@@ -23,6 +24,7 @@ Useful datasets and tools.
 
 Data wranging with:
 
+- [Excel](excel/README.md)
 - [Python](python/README.md)
 - [R](r/README.md)
 
