@@ -41,3 +41,4 @@ Output from a query may use an array to store the results and display them.
 
 - [Array](https://en.wikipedia.org/wiki/Array_data_structure)
 - [A Comprehensive Guide For Array Data Structure](https://medium.com/codeconvention/learn-array-data-structure-2fa01edd21c2)
+- [Python Array](https://www.tutorialspoint.com/python_data_structure/python_arrays.htm)
