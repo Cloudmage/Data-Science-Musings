@@ -4,6 +4,10 @@
 
 ## YouTube Channels
 
+### Data Structures
+
+- [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
 ### Excel
 
 - [ExcelIsFun YouTube Channel](https://www.youtube.com/channel/UCkndrGoNpUDV-uia6a9jwVg)
