@@ -35,6 +35,11 @@
 
 Links in this section go to Amazon.co.uk. For note: I do not have any affilation with the products listed.
 
+### Data Books
+
+- [Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You](https://www.amazon.co.uk/gp/product/147363749X/ref=ppx_yo_dt_b_asin_title_o02_s00?)
+- [Information is Beautiful](https://www.amazon.co.uk/Information-Beautiful-New-David-McCandless/dp/0007492898/ref=sr_1_1?)
+
 ### Machine Learning Books
 
 - [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?)
