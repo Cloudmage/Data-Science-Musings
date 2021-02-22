@@ -15,6 +15,7 @@
 
 ### Python
 
+- [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 - [Python 101](http://python101.pythonlibrary.org/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python for Everybody](https://www.py4e.com/)

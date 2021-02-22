@@ -22,3 +22,5 @@ import numpy as np
 ## Videos
 
 - [Learn NUMPY in 5 minutes - BEST Python Library!](https://www.youtube.com/watch?v=xECXZ3tyONo)
+
+## Books

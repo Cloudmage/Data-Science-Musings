@@ -24,3 +24,5 @@ import pandas as pd
 - [LEARN PANDAS in about 10 minutes! A great python module for Data Science!](https://www.youtube.com/watch?v=iGFdh6_FePU)
 - [Perfect Python Pandas Project for beginners. Code with me](https://www.youtube.com/watch?v=MYU9W34dZh0)
 - [What is Pandas? Why and How to Use Pandas in Python](https://www.youtube.com/watch?v=dcqPhpY7tWk)
+
+## Books
