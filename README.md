@@ -28,11 +28,11 @@ Data wranging with:
 - [Python](python/README.md)
 - [R](r/README.md)
 
-## Math
+## Statistics and Math
 
-Math - need I say more!
+Statistics and Math - need I say more!
 
-- [Math](math/README.md)
+- [Statistics and Math](stats/README.md)
 
 ## Reading/Learning Lists
 

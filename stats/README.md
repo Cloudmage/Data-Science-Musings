@@ -1,4 +1,6 @@
-# Math
+# Statistics and Math
+
+[Statistical Techniques](techniques/README.md)
 
 ## Blog Posts
 
@@ -6,6 +8,7 @@
 
 ## Books
 
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/)
 - [Think Bayes](https://greenteapress.com/wp/think-bayes/)
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
