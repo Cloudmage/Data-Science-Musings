@@ -27,6 +27,7 @@ Data wranging with:
 - [Excel](excel/README.md)
 - [Python](python/README.md)
 - [R](r/README.md)
+- [SQLite](sqlite/README.md)
 
 ## Statistics and Math
 
