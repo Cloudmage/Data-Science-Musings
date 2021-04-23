@@ -18,6 +18,5 @@ A stack data structure is a set of data elements that are maintained in a stack.
 
 ### Reference Links
 
-- [How to implement a Python Stack](https://realpython.com/how-to-implement-python-stack/)
 - [Python Stack](https://www.tutorialspoint.com/python_data_structure/python_stack.htm)
-- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+- [Stack](https://en.wikipedia.org/wiki/Stack_abstract_data_type)

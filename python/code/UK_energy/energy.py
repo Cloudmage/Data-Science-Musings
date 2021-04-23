@@ -64,7 +64,7 @@ v36 = Proj(proj="latlong",K=0.9996012717, ellps="airy",
 vgrid = Proj(init="world:bng")
 
 def vectorized_convert(df):
-    vlon36, vl1t36 = vgrid(df['eastings'].values,
+    vlon36, vlat36 = vgrid(df['eastings'].values,
                            df['northings'].values,
                            inverse=True)
     converted = transform(v36, v84, vlon36, vlat36)
