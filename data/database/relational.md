@@ -17,6 +17,10 @@ A Relational database structure uses a Structured Query Language (SQL) for query
 - Storing IoT (Internet of Things) data
 - Data warehouses
 
+### Example
+
+An example of the code for a [Relational Database using Python and SQLite](/sqlite/code_snipets/README.md)
+
 ### References
 
 - [Relational Database](https://en.wikipedia.org/wiki/Relational_database)
