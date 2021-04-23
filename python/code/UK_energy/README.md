@@ -4,7 +4,7 @@
 
 UK Government Power
 
--[Energy Data](https://www.gov.uk/government/statistics/postcode-level-electricity-estimates-2015-experimental)
+- [Energy Data](https://www.gov.uk/government/statistics/postcode-level-electricity-estimates-2015-experimental)
 
 OS Map Data
 

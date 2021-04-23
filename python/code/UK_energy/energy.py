@@ -30,7 +30,7 @@ gdf = gpd.read_file(locpath)
 gdf.loc[0:5,['Postcode','geometry']]
 
 # Rename the column names to remove spaces
-cols = ['postcode','meters','consumption','mean_consumption','median_consumption']
+cols = ['Postcode','meters','consumption','mean_consumption','median_consumption']
 df.columns = cols
 
 # take the postcode and geometry columns from geodata
@@ -51,7 +51,7 @@ eastings = merged.apply(
     axis=1)
 
 northings = merged.apply(
-    lambda row: (row['northings'].y),
+    lambda row: (row['geometry'].y),
     axis=1)
 
 merged['eastings']=eastings
