@@ -11,6 +11,7 @@ Useful articles that I have been reading
 - [Deep Learning Paper Notes](https://github.com/dennybritz/deeplearning-papernotes)
 - [Explainable AI won’t deliver. Here’s why](https://hackernoon.com/explainable-ai-wont-deliver-here-s-why-6738f54216be)
 - [Getting started with AI? Start here!](https://hackernoon.com/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
+- [Intro Guide to NLP for Data Scientists](https://www.kdnuggets.com/2020/01/intro-guide-nlp-data-scientists.html)
 - [Machine learning — Is the emperor wearing clothes?](https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc)
 - [Pay attention to that man behind the curtain](https://hackernoon.com/ai-bias-and-what-you-can-do-about-it-4a6ae48b338e)
 - [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
