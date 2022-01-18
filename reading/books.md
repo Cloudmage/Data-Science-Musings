@@ -7,6 +7,7 @@
 - [An Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
 - [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Introduction to Data Science](https://datascience-book.gitlab.io/book.html#_preface)
 - [Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 - [Mining of Massive Datasets](http://www.mmds.org/)
 - [Modeling with Data](https://modelingwithdata.org/)
